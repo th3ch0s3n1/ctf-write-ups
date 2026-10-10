@@ -24,8 +24,8 @@ Sbírka write-upů k CTF výzvám, kterých jsem se zúčastnil.
 
 | Výzva | Kategorie | Tagy |
 |-------|-----------|------|
-| [MacroAge](kybersoutez_2_round_2026/macroage/README.cs.md) | Misc | Misc |
-| [ZtraceN](kybersoutez_2_round_2026/ztracen/README.cs.md) | Crypto | Crypto |
+| [MacroAge](kybersoutez_2_round_2026/macroage/README.cs.md) | Misc | MikroTik, SSH Tunneling, DNS Spoofing, Credential Harvesting |
+| [ZtraceN](kybersoutez_2_round_2026/ztracen/README.cs.md) | Crypto | RSA |
 | [LincolnShire](kybersoutez_2_round_2026/lincolnshire/README.cs.md) | Crypto | Number station |
 | [AES CPA](kybersoutez_2_round_2026/aes_cpa/README.cs.md) | Crypto | AES |
 
