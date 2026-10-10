@@ -28,6 +28,7 @@ Sbírka write-upů k CTF výzvám, kterých jsem se zúčastnil.
 | [ZtraceN](kybersoutez_2_round_2026/ztracen/README.cs.md) | Crypto | RSA |
 | [LincolnShire](kybersoutez_2_round_2026/lincolnshire/README.cs.md) | Crypto | Number station |
 | [AES CPA](kybersoutez_2_round_2026/aes_cpa/README.cs.md) | Crypto | AES |
+| [Personal Space](kybersoutez_2_round_2026/personal_space/README.cs.md) | Web | Flask, SSTI, Session Forgery, Path Traversal |
 
 ### Kybersoutěž 2. kolo 2024
 
