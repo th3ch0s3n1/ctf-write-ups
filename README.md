@@ -1,4 +1,10 @@
-# CTF Write-ups
+<div align="center">
+
+# 🚩 CTF Write-ups
+
+🇬🇧 **English** · [🇨🇿 Čeština](README.cs.md)
+
+</div>
 
 A collection of write-ups for CTF challenges I have participated in.
 

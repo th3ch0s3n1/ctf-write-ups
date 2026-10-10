@@ -1,4 +1,10 @@
-# Ticket Shop
+<div align="center">
+
+# 🎟️ Ticket Shop
+
+🇬🇧 **English** · [🇨🇿 Čeština](README.cs.md)
+
+</div>
 
 ## Kybersoutěž finále 2026
 
