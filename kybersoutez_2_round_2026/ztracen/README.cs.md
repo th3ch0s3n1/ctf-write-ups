@@ -26,12 +26,19 @@
 
 ### Řešení
 
+```bash
+pip install pycryptodome
+```
+
 ```python
+from itertools import combinations_with_replacement, product
+
+from Crypto.Util.number import isPrime
+
+
 e = 65537
 d = 13732020974556595981129643152379568337833162459237646942961543641211348147598702041965557184544837721933671794341920150450664179941113857
 c = 0x33743816105f6f521b7e618f7bef65a35a90dcba800cdbc7419c12965abc433081646c515c0af14c55a35a5debb60a275d228397ce1179927
-
-X = e * d - 1
 
 X_FACTORS = {
     2: 16, 3: 3, 7573: 1, 26717: 1, 20551073: 1, 5325997: 1,
@@ -64,6 +71,7 @@ for p, q in combinations_with_replacement(primes_p, 2):
     em = m.to_bytes(k, "big")          # pevná délka, zachová úvodní nuly!
     if b"HCKR{" in em:
         print(em)                      # nalezena vlajka
+        break
 ```
 
 ### Výstup
