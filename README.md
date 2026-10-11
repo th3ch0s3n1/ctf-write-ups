@@ -36,7 +36,7 @@ A collection of write-ups for CTF challenges I have participated in.
 
 | Challenge | Category | Tags |
 |-----------|----------|------|
-| [Planes Mk. I](kybersoutez_2_round_2024/planes/README.md) | Programming | Python |
-| [Planes Mk. II](kybersoutez_2_round_2024/planes/README.md) | Programming | Python |
+| [Planes Mk. I](kybersoutez_2_round_2024/planes/README.md) | Programming | Python, A* search algorithm |
+| [Planes Mk. II](kybersoutez_2_round_2024/planes/README.md) | Programming | Python, A* search algorithm |
 | [Game Time](kybersoutez_2_round_2024/game_time/README.md) | Reversing | C#, Unity |
 </content>

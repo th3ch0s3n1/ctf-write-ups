@@ -36,7 +36,7 @@ Sbírka write-upů k CTF výzvám, kterých jsem se zúčastnil.
 
 | Výzva | Kategorie | Tagy |
 |-------|-----------|------|
-| [Planes Mk. I](kybersoutez_2_round_2024/planes/README.cs.md) | Programming | Python |
-| [Planes Mk. II](kybersoutez_2_round_2024/planes/README.cs.md) | Programming | Python |
+| [Planes Mk. I](kybersoutez_2_round_2024/planes/README.cs.md) | Programming | Python, A* search algorithm |
+| [Planes Mk. II](kybersoutez_2_round_2024/planes/README.cs.md) | Programming | Python, A* search algorithm |
 | [Game Time](kybersoutez_2_round_2024/game_time/README.cs.md) | Reversing | C#, Unity |
 </content>
